@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikritimoti&" alt="abhikritimoti" /></p> -->
 
-<div style="background-color: black;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikritimoti&show_icons=true&locale=en&layout=compact" alt="abhikritimoti" /></p>
+<p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikritimoti&show_icons=true&locale=en&layout=compact" alt="abhikritimoti" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&locale=en" alt="abhikritimoti" /></p>
+<p style="background-color: black;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&locale=en" alt="abhikritimoti" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikritimoti&" alt="abhikritimoti" /></p>
-</div>
+<p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikritimoti&" alt="abhikritimoti" /></p>
+
