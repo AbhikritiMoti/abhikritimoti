@@ -14,8 +14,8 @@
 <a href="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png">
     <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Swift" width="40" height="40" title="Xcode" />
 </a>
-<a href="https://developer.apple.com/swift/">
-    <img src="https://developer.apple.com/swift/images/swift-og.png" alt="Swift" width="40" height="40" title="Swift" />
+<a href="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603278905-AVZ8RD2X0YCPY0N3VGRZ/Swift_logo.png?format=1000w">
+    <img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603278905-AVZ8RD2X0YCPY0N3VGRZ/Swift_logo.png?format=1000w" alt="Swift" width="40" height="40" title="Swift" />
 </a>
 
 
