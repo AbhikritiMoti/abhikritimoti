@@ -32,16 +32,9 @@ Here are some ideas to get you started:
 <!--<h3 align="left">Support:</h3> -->
 <p><a href="https://www.buymeacoffee.com/abhikritimoti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhikritimoti" /></a></p><br><br>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex-basis: 30%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikritimoti&show_icons=true&locale=en&layout=compact" alt="abhikritimoti" />
-    </div>
-    <div style="flex-basis: 30%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&locale=en" alt="abhikritimoti" />
-    </div>
-    <div style="flex-basis: 30%; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikritimoti" alt="abhikritimoti" />
-    </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&locale=en" alt="abhikritimoti" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikritimoti&" alt="abhikritimoti" /></p>
 </div>
 
 
