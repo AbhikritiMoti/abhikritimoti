@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left"></h3>
+<h3 align="left">Tech Stack</h3>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" width="46" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  title="python" width="50" height="50"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="50" height="50"/> </a>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 
 <br><br><br><br>
-| <a href="https://github.com/abhikritimoti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/abhikritimoti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikritimoti&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/abhikritimoti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikritimoti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhi's github stats" /></a> | <a href="https://github.com/abhikritimoti/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikritimoti&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--<h3 align="left">Support:</h3> -->
